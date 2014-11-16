@@ -1,6 +1,6 @@
 {
   "name": "declared",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return the first argument that is \"!= undefined\" (or \"!= null\", which is the same thing)",
   "author": "Eugene Sharygin <eush77@gmail.com>",
   "license": "MIT",
@@ -20,6 +20,8 @@
     "null",
     "default",
     "defaults",
+    "optional",
+    "omitted",
     "short-circuit",
     "||",
     "or",
