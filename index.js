@@ -7,5 +7,4 @@ module.exports = function () {
       return arguments[i];
     }
   }
-  return undefined;
 };
